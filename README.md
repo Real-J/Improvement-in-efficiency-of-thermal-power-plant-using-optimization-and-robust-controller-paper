@@ -1,1 +1,3 @@
-# -Improvement-in-efficiency-of-thermal-power-plant-using-optimization-and-robust-controller
+# Abstract
+
+This paper briefs on some of the most effective control configurations that can be used to improve the efficiency of coal fueled thermal power plant, thus practically saving coal and increasing energy produce at a significant level. Our control theory is based on the real time data we collected at the 500 MW capacity unit of NPTL Thermal Power Plant Tuticorin. The collected data helped us to design an accurate model of coal, air and feed water flow rate. With the use of evolution and optimization technique the controllers for all the three loops were adjusted to perfection. The best features of the controllers are highlighted as to give the readers an educated opinion to choose between the discussed controller types.
